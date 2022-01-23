@@ -36,15 +36,17 @@ h2 {
 }
 
 .shopping-list {
-    padding-top: 20px;
+  padding-top: 30px;
 }
 
 .checkbox-list {
     list-style: none;
+    padding: 20px;
 }
 
 .list-item {
     color: white;
+    padding: 15px;
 }
 
 .small-text {
